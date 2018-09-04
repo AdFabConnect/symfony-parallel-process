@@ -4,7 +4,7 @@ A simple wrapper to enable parallel processing using [Symfony Process](http://sy
 
 ##Installation
 
-`composer require jagandecapri/symfony-parallel-process`
+`composer require Jjourde/symfony-parallel-process`
 
 ##Example
 
